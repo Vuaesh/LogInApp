@@ -8,3 +8,13 @@ C:\Users\Uczen\source\repos\WindowsFormsApp1\LoggedIn\obj\Debug\LoggedIn.csproj.
 C:\Users\Uczen\source\repos\WindowsFormsApp1\LoggedIn\obj\Debug\LoggedIn.exe
 C:\Users\Uczen\source\repos\WindowsFormsApp1\LoggedIn\obj\Debug\LoggedIn.pdb
 C:\Users\Uczen\source\repos\WindowsFormsApp1\LoggedIn\obj\Debug\LoggedIn.Form1.resources
+C:\Users\xroqu\source\repos\LogInApp\LogInApp\LoggedIn\bin\Debug\LoggedIn.exe.config
+C:\Users\xroqu\source\repos\LogInApp\LogInApp\LoggedIn\bin\Debug\LoggedIn.exe
+C:\Users\xroqu\source\repos\LogInApp\LogInApp\LoggedIn\bin\Debug\LoggedIn.pdb
+C:\Users\xroqu\source\repos\LogInApp\LogInApp\LoggedIn\obj\Debug\LoggedIn.csproj.AssemblyReference.cache
+C:\Users\xroqu\source\repos\LogInApp\LogInApp\LoggedIn\obj\Debug\LoggedIn.Form1.resources
+C:\Users\xroqu\source\repos\LogInApp\LogInApp\LoggedIn\obj\Debug\LoggedIn.Properties.Resources.resources
+C:\Users\xroqu\source\repos\LogInApp\LogInApp\LoggedIn\obj\Debug\LoggedIn.csproj.GenerateResource.cache
+C:\Users\xroqu\source\repos\LogInApp\LogInApp\LoggedIn\obj\Debug\LoggedIn.csproj.CoreCompileInputs.cache
+C:\Users\xroqu\source\repos\LogInApp\LogInApp\LoggedIn\obj\Debug\LoggedIn.exe
+C:\Users\xroqu\source\repos\LogInApp\LogInApp\LoggedIn\obj\Debug\LoggedIn.pdb

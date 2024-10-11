@@ -17,13 +17,15 @@ namespace WindowsFormsApp1
     public partial class Form1 : Form
     {
 
-        
-        public Form1()
-        {
-            InitializeComponent();
-        }
 
-        private void label2_Click(object sender, EventArgs e)
+		public Form1()
+		{
+			InitializeComponent();
+		}
+
+
+
+		private void label2_Click(object sender, EventArgs e)
         {
 
         }
@@ -59,12 +61,12 @@ namespace WindowsFormsApp1
             if (textBox2.PasswordChar == '*')
             {
                 textBox2.PasswordChar = '\0';
-                button2.Text = "🧐";
+                button2.Text = "🔓";
             }
             else
             {
                 textBox2.PasswordChar = '*';
-                button2.Text = "🙄";
+                button2.Text = "🔒";
             }
         }
     }
